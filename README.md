@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<Krystal Lee\>_
+**Author:** _Krystal Lee_
 
-**Due date:** _\<February 4th, 2016\>_
+**Due date:** _February 4th, 2016_
 
 ## Description
 
-_\<Edit README file.\>_
+_Edit README file_
 
 ## What I Learned from This
 
-_\<I learned how to clone from the web, create repository on my computer, edit files using atom and push them back up to the cloud.\>_
+_I learned how to clone from the web, create repository on my computer, edit files using atom and push them back up to the cloud._
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<Krystal Lee\>_
+_Krystal Lee_
